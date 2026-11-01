@@ -1,71 +1,57 @@
- <h1 align="center">Hi 👋, I'm Umang Dubey</h1>
-
-<h3 align="center">Senior Software Engineer | Distributed Systems | Agentic AI </h3>
+<a href="https://dev-umang-here.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <img alt="Umang Dubey — builds backend & AI systems" src="./assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-Building scalable backend systems, reliable infrastructure, and AI-powered developer tools.
+  <a href="https://dev-umang-here.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-12151F?style=for-the-badge&logo=googlechrome&logoColor=F1EEE8" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/umang-dubey-007/"><img src="https://img.shields.io/badge/LINKEDIN-2F3FFF?style=for-the-badge&logo=linkedin&logoColor=F1EEE8" alt="LinkedIn"></a>
+  <a href="mailto:meetumangdubey@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C8221A?style=for-the-badge&logo=gmail&logoColor=F1EEE8" alt="Email"></a>
+  <a href="https://dev-umang-here.github.io/umang-dubey-resume.pdf"><img src="https://img.shields.io/badge/RÉSUMÉ-6B6A66?style=for-the-badge&logo=readthedocs&logoColor=F1EEE8" alt="Résumé"></a>
 </p>
+
+Backend engineer working on **high-throughput distributed systems** in fintech, and on the **AI agents** that help run them.
+I care about the unglamorous parts: backpressure, idempotency, observability, and guardrails that live in code, not in the prompt.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-building-dark.svg">
+  <img alt="01 / Building" src="./assets/sec-building-light.svg" width="100%">
+</picture>
+
+<table>
+<tr><td width="22%" valign="top"><a href="https://github.com/dev-umang-here/ai-sre-agent"><b>ai-sre-agent</b></a></td><td>Self-healing on-call agent: diagnoses alerts and proposes fixes, gated by an allow-list and circuit breaker.<br><sub><code>Claude Agent SDK · MCP · Prometheus</code></sub></td></tr>
+<tr><td width="22%" valign="top"><a href="https://intellr.io/"><b>Intellr</b></a></td><td>Multi-agent hiring platform with screening, voice-interview and automation agents.<br><sub><code>Multi-agent · Voice AI</code></sub></td></tr>
+<tr><td width="22%" valign="top"><b>Pantry Pilot</b></td><td>AI grocery planner for everyday meals: learns your food preferences, plans what to cook each day, and builds the grocery list and order to match.<br><sub><code>MCP · LLM planning · Human-in-the-loop</code></sub></td></tr>
+</table>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stack-dark.svg">
+  <img alt="02 / Stack" src="./assets/sec-stack-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img alt="Go, Python, Java, JavaScript, Kafka, PostgreSQL, TimescaleDB, Redis, Cassandra, AWS, Kubernetes, Docker, gRPC, Prometheus, Grafana, OpenTelemetry, MCP, Claude Agent SDK, LangChain, RAG, LLM Evals" src="./assets/stack-light.svg" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-activity-dark.svg">
+  <img alt="03 / Activity" src="./assets/sec-activity-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <a href="https://dev-umang-here.github.io/">🌐 Portfolio</a> •
-  <a href="https://github.com/dev-umang-here">GitHub</a> •
-  <a href="https://www.linkedin.com/in/umang-dubey/">LinkedIn</a> •
-  <a href="mailto:meetumangdubey@gmail.com">Email</a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 💻 Software Engineer focused on **Backend Engineering, Distributed Systems, and System Design**
-- ⚙️ Experienced in building **scalable microservices, concurrent systems, and high-throughput data pipelines**
-- 🤖 Exploring **AI Agents, MCP, RAG, and LLM-powered developer tools**
-- 🔍 Interested in **system reliability, performance optimization, observability, and automation**
-- 🛠️ Building systems that combine **backend infrastructure with practical AI applications**
-
----
-
-### 💬 Ask Me About
-
-- Backend Engineering & Microservices
-- Distributed Systems & Concurrency
-- System Design & API Architecture
-- Python, Go & Java
-- AI Agents, MCP & RAG
-- Observability & Site Reliability Engineering
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-Python • Go • Java • JavaScript
-
-**Backend & Distributed Systems**
-
-Microservices • REST APIs • Kafka • Concurrency • Distributed Systems
-
-**Databases & Caching**
-
-PostgreSQL • Redis • TimescaleDB • Cassandra
-
-**Cloud & Infrastructure**
-
-AWS • Docker • Kubernetes • CI/CD
-
-**AI & Agent Systems**
-
-LLM Applications • RAG • LangChain • MCP • Agentic Workflows
-
----
-
-### 📫 Let's Connect
-
-Interested in backend engineering, distributed systems, AI infrastructure, and building reliable software.
-
-🌐 [Visit my portfolio](https://dev-umang-here.github.io/)
-
-💼 [Connect on LinkedIn](https://www.linkedin.com/in/umang-dubey/)
-
-📧 [Email me](mailto:meetumangdubey@gmail.com)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dev-umang-here&show_icons=true&hide_border=true&bg_color=0E1015&title_color=6E7BFF&text_color=F1EEE8&icon_color=E5392F&ring_color=6E7BFF&include_all_commits=true&count_private=true&card_width=420">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-umang-here&show_icons=true&hide_border=true&bg_color=F1EEE8&title_color=2F3FFF&text_color=12151F&icon_color=C8221A&ring_color=2F3FFF&include_all_commits=true&count_private=true&card_width=420" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-umang-here&layout=compact&hide_border=true&bg_color=0E1015&title_color=6E7BFF&text_color=F1EEE8&card_width=320">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-umang-here&layout=compact&hide_border=true&bg_color=F1EEE8&title_color=2F3FFF&text_color=12151F&card_width=320" alt="Top languages">
