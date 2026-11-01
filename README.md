@@ -42,16 +42,4 @@ I care about the unglamorous parts: backpressure, idempotency, observability, an
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-activity-dark.svg">
-  <img alt="03 / Activity" src="./assets/sec-activity-light.svg" width="100%">
-</picture>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dev-umang-here&show_icons=true&hide_border=true&bg_color=0E1015&title_color=6E7BFF&text_color=F1EEE8&icon_color=E5392F&ring_color=6E7BFF&include_all_commits=true&count_private=true&card_width=420">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-umang-here&show_icons=true&hide_border=true&bg_color=F1EEE8&title_color=2F3FFF&text_color=12151F&icon_color=C8221A&ring_color=2F3FFF&include_all_commits=true&count_private=true&card_width=420" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-umang-here&layout=compact&hide_border=true&bg_color=0E1015&title_color=6E7BFF&text_color=F1EEE8&card_width=320">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-umang-here&layout=compact&hide_border=true&bg_color=F1EEE8&title_color=2F3FFF&text_color=12151F&card_width=320" alt="Top languages">
+<p align="center"><sub><i>Always building. Always learning.</i> &nbsp;■</sub></p>
