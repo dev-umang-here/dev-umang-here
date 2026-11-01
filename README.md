@@ -68,4 +68,4 @@ Interested in backend engineering, distributed systems, AI infrastructure, and b
 
 💼 [Connect on LinkedIn](https://www.linkedin.com/in/umang-dubey/)
 
-📧 [Email me](mailto:meetu mangdubey@gmail.com)
+📧 [Email me](mailto:meetumangdubey@gmail.com)
